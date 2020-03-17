@@ -1,0 +1,9 @@
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\bin\Debug\netstandard2.0\Reumed.DataAccess.deps.json
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\bin\Debug\netstandard2.0\Reumed.DataAccess.dll
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\bin\Debug\netstandard2.0\Reumed.DataAccess.pdb
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\obj\Debug\netstandard2.0\Reumed.DataAccess.csprojAssemblyReference.cache
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\obj\Debug\netstandard2.0\Reumed.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\obj\Debug\netstandard2.0\Reumed.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\obj\Debug\netstandard2.0\Reumed.DataAccess.AssemblyInfo.cs
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\obj\Debug\netstandard2.0\Reumed.DataAccess.dll
+C:\Users\jrozon\source\repos\Reumed\Reumed.DataAccess\obj\Debug\netstandard2.0\Reumed.DataAccess.pdb
